@@ -15,11 +15,11 @@ Case Study: Vận dụng các kiến thức tổng hợp từ bài 1, viết 1 �
 - Click vào mỗi bài viết, sẽ đọc được nội dung chi tiết của bài viết đó
 - Giao diện 3 màn hình như bên dưới 
 
-![home_screen]()
+![home_screen](https://github.com/anhtbok92/AppDocBaoReactNativeTraining/blob/master/img/home_screen.png)
 
-![detail_screen]()
+![detail_screen](https://github.com/anhtbok92/AppDocBaoReactNativeTraining/blob/master/img/detail_screen.png)
 
-![webview_screen]()
+![webview_screen](https://github.com/anhtbok92/AppDocBaoReactNativeTraining/blob/master/img/webview_screen.png)
 
 # Gợi ý
 - Sử dụng React-navigator cho 3 màn hình cần làm
