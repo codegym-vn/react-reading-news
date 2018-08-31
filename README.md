@@ -1,4 +1,6 @@
 # App Đọc Báo React Native Training
+<br/>
+Mã nguồn App Đọc Báo React Native Training được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 
 Case Study: Vận dụng các kiến thức tổng hợp từ bài 1, viết 1 ứng dụng đọc báo
 
